@@ -470,3 +470,13 @@ font-family: 'Open Sans', sans-serif; font-size:medium;
 	text-align:center;
 	font-weight:bold;
 }
+
+#achievement_page{
+	position:absolute;
+	top:-60px;
+}
+
+#profile_page{
+	position:absolute;
+	top:-60px;
+}

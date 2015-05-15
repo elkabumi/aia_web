@@ -1,3 +1,4 @@
+<div id="achievement_page"></div>
 <div class="achievement_title">ACHIEVEMENT : AGENT</div>
 <div class="achievement_content">
 <table width="900" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top:20px;">
